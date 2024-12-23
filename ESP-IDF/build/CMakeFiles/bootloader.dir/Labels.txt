@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/_Dev_/_Repos_/Github/_LoongBa_/ESP_Projects/ESP-Learning/Study01/build/CMakeFiles/bootloader
+D:/_Dev_/_Repos_/Github/_LoongBa_/ESP_Projects/ESP-Learning/Study01/build/CMakeFiles/bootloader.rule
+D:/_Dev_/_Repos_/Github/_LoongBa_/ESP_Projects/ESP-Learning/Study01/build/CMakeFiles/bootloader-complete.rule
+D:/_Dev_/_Repos_/Github/_LoongBa_/ESP_Projects/ESP-Learning/Study01/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/_Dev_/_Repos_/Github/_LoongBa_/ESP_Projects/ESP-Learning/Study01/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/_Dev_/_Repos_/Github/_LoongBa_/ESP_Projects/ESP-Learning/Study01/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/_Dev_/_Repos_/Github/_LoongBa_/ESP_Projects/ESP-Learning/Study01/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/_Dev_/_Repos_/Github/_LoongBa_/ESP_Projects/ESP-Learning/Study01/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/_Dev_/_Repos_/Github/_LoongBa_/ESP_Projects/ESP-Learning/Study01/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/_Dev_/_Repos_/Github/_LoongBa_/ESP_Projects/ESP-Learning/Study01/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

@@ -1,0 +1,13 @@
+CMake Error: Could not open file for write in copy operation D:/_Dev_/_Repos_/Github/_LoongBa_/ESP_Projects/ESP-Learning/Study01/build/bootloader-prefix/src/bootloader-stamp/bootloader-source_dirinfo.txt.tmp
+CMake Error: : System Error: Permission denied
+CMake Error at D:/_Dev_/_ESP-IDF_/.espressif/tools/cmake/3.30.2/share/cmake-3.30/Modules/ExternalProject/shared_internal_commands.cmake:1352 (configure_file):
+  configure_file Problem configuring file
+Call Stack (most recent call first):
+  D:/_Dev_/_ESP-IDF_/.espressif/tools/cmake/3.30.2/share/cmake-3.30/Modules/ExternalProject.cmake:3035 (_ep_add_download_command)
+  D:/_Dev_/_ESP-IDF_/v5.3.2/esp-idf/components/bootloader/project_include.cmake:130 (externalproject_add)
+  D:/_Dev_/_ESP-IDF_/v5.3.2/esp-idf/tools/cmake/build.cmake:400 (include)
+  D:/_Dev_/_ESP-IDF_/v5.3.2/esp-idf/tools/cmake/build.cmake:632 (__build_process_project_includes)
+  D:/_Dev_/_ESP-IDF_/v5.3.2/esp-idf/tools/cmake/project.cmake:710 (idf_build_process)
+  CMakeLists.txt:6 (project)
+
+
